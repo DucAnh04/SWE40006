@@ -1,0 +1,13 @@
+E:\Data Science\SWE40006\WinUniversalPackage\Images\SplashScreen.scale-200.png
+E:\Data Science\SWE40006\WinUniversalPackage\Images\LockScreenLogo.scale-200.png
+E:\Data Science\SWE40006\WinUniversalPackage\Images\Square150x150Logo.scale-200.png
+E:\Data Science\SWE40006\WinUniversalPackage\Images\Square44x44Logo.scale-200.png
+E:\Data Science\SWE40006\WinUniversalPackage\Images\Square44x44Logo.targetsize-24_altform-unplated.png
+E:\Data Science\SWE40006\WinUniversalPackage\Images\StoreLogo.png
+E:\Data Science\SWE40006\WinUniversalPackage\Images\Wide310x150Logo.scale-200.png
+E:\Data Science\SWE40006\WinUniversalPackage\bin\AnyCPU\Debug\resources.pri
+E:\Data Science\SWE40006\mcMath\bin\Debug\mcMath.dll
+E:\Data Science\SWE40006\mcMath\bin\Debug\mcMath.pdb
+E:\Data Science\SWE40006\ExampleDesktop\bin\Debug\ExampleDesktop.exe
+E:\Data Science\SWE40006\ExampleDesktop\bin\Debug\ExampleDesktop.exe.config
+E:\Data Science\SWE40006\ExampleDesktop\bin\Debug\ExampleDesktop.pdb

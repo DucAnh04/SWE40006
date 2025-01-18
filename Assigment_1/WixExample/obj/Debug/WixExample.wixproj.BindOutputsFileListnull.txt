@@ -1,0 +1,2 @@
+E:\Data Science\SWE40006\WixExample\bin\Debug\WixExample.msi
+E:\Data Science\SWE40006\WixExample\bin\Debug\WixExample.wixpdb

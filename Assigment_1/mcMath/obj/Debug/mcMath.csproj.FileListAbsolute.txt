@@ -1,0 +1,6 @@
+E:\Data Science\SWE40006\mcMath\bin\Debug\mcMath.dll
+E:\Data Science\SWE40006\mcMath\bin\Debug\mcMath.pdb
+E:\Data Science\SWE40006\mcMath\obj\Debug\mcMath.csproj.AssemblyReference.cache
+E:\Data Science\SWE40006\mcMath\obj\Debug\mcMath.csproj.CoreCompileInputs.cache
+E:\Data Science\SWE40006\mcMath\obj\Debug\mcMath.dll
+E:\Data Science\SWE40006\mcMath\obj\Debug\mcMath.pdb

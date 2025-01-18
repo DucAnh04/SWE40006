@@ -1,0 +1,12 @@
+E:\Data Science\SWE40006\ExampleDesktop\bin\Debug\ExampleDesktop.exe.config
+E:\Data Science\SWE40006\ExampleDesktop\bin\Debug\ExampleDesktop.exe
+E:\Data Science\SWE40006\ExampleDesktop\bin\Debug\ExampleDesktop.pdb
+E:\Data Science\SWE40006\ExampleDesktop\obj\Debug\ExampleDesktop.csproj.AssemblyReference.cache
+E:\Data Science\SWE40006\ExampleDesktop\obj\Debug\ExampleDesktop.Properties.Resources.resources
+E:\Data Science\SWE40006\ExampleDesktop\obj\Debug\ExampleDesktop.csproj.GenerateResource.cache
+E:\Data Science\SWE40006\ExampleDesktop\obj\Debug\ExampleDesktop.csproj.CoreCompileInputs.cache
+E:\Data Science\SWE40006\ExampleDesktop\obj\Debug\ExampleDesktop.exe
+E:\Data Science\SWE40006\ExampleDesktop\obj\Debug\ExampleDesktop.pdb
+E:\Data Science\SWE40006\ExampleDesktop\bin\Debug\mcMath.dll
+E:\Data Science\SWE40006\ExampleDesktop\bin\Debug\mcMath.pdb
+E:\Data Science\SWE40006\ExampleDesktop\obj\Debug\ExampleD.E14AF3E9.Up2Date

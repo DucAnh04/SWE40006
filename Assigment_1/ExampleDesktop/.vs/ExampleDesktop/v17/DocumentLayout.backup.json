@@ -1,0 +1,116 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Data Science\\SWE40006\\ExampleDesktop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D297925D-1D14-4A84-9C32-9FC6444039A4}|ExampleDesktop.csproj|e:\\data science\\swe40006\\exampledesktop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D297925D-1D14-4A84-9C32-9FC6444039A4}|ExampleDesktop.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F047EB5C-5C30-4133-A60E-C81D3F485BFB}|..\\WixExample\\WixExample.wixproj|E:\\Data Science\\SWE40006\\WixExample\\Product.wxs||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F047EB5C-5C30-4133-A60E-C81D3F485BFB}|..\\WixExample\\WixExample.wixproj|E:\\Data Science\\SWE40006\\WixExample\\WixExample.wax||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D297925D-1D14-4A84-9C32-9FC6444039A4}|ExampleDesktop.csproj|E:\\Data Science\\SWE40006\\ExampleDesktop\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D297925D-1D14-4A84-9C32-9FC6444039A4}|ExampleDesktop.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D297925D-1D14-4A84-9C32-9FC6444039A4}|ExampleDesktop.csproj|E:\\Data Science\\SWE40006\\ExampleDesktop\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D297925D-1D14-4A84-9C32-9FC6444039A4}|ExampleDesktop.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 193,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WixExample.wax",
+              "DocumentMoniker": "E:\\Data Science\\SWE40006\\WixExample\\WixExample.wax",
+              "RelativeDocumentMoniker": "..\\WixExample\\WixExample.wax",
+              "ToolTip": "E:\\Data Science\\SWE40006\\WixExample\\WixExample.wax",
+              "RelativeToolTip": "..\\WixExample\\WixExample.wax",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAQAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAJdSURBVDhPhZNdSJNRGMd/79z8aKC0jJLSWrkwqBneLCtvu4muughCMIIiRQqXNyuCCnJ0oZiIJeEoECzqppvIi1i7ClbpTX6AMytdF4kf29zQ7X3P08U\u002B7BWq5\u002BY8nPN/fjzPOf\u002BjkYtgMCj5/G8hIobH47ltt9v9\u002BY3CYTAYFD2TEV3PiGHoYhi6KGWIUoboekaUMiQcDsvo6KjxIzrfmq\u002Bz5BMRQRCQTXB\u002BtViysnQ6TVNTk2Xqy2Tv7OxsiwmglPoHRAMgmUwSCoVQShVHIpGnJoCIgEgW8kcOML\u002Ba5vqLr9QeO0m9283hurp8GdZ8opTi4tUOFIpEPA6ApkGx1Ubf4BMGZjZYqlYMn9gNwNT0NGwd4dHDB5TvrWFbawBncx/lRxoJDPZTZtO4UF/Jy7llnk0s5kvMAMMwaPP6WItGufb\u002BOaWVRSQnP9JyuY1fSZ2S\u002BCr3D4D37UJBbwIopRjo9nPQ5eLO2GvGuy6xkUoyHHjM/gobYUnQ2ViNY92OiKCUgq130N55ExHB4R3h7PYMxXPvCLz5gOE6TrmthLHvcaKplAlQ6EDXdfq7/Sw7nDhtq9TsstETcXJvsRbveIr0Wik/Y2nuuu0gWb0JICK03/CxY\u002BUboVvNfH41xJijiqUyC6ysM7MQp6rCSsc5J8LmExdGiMViDHR3oQGapqEVFTEyNMEnowREaHCV4q6yZ/2R05s6SCQSucOcmQyDnjP7CHgc9J7azuDpapPJEomEGZDKXU7WyVlhw84yzh\u002Bq4MpRB3vs1hwgO24qlYKCyQGfz/ff77w1/H6/9hv4zV9b8esvQgAAAABJRU5ErkJggg==",
+              "WhenOpened": "2025-01-15T03:50:59.758Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "E:\\Data Science\\SWE40006\\ExampleDesktop\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "E:\\Data Science\\SWE40006\\ExampleDesktop\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAowCkAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T15:49:42.694Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Data Science\\SWE40006\\ExampleDesktop\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\Data Science\\SWE40006\\ExampleDesktop\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T15:44:50.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Product.wxs",
+              "DocumentMoniker": "E:\\Data Science\\SWE40006\\WixExample\\Product.wxs",
+              "RelativeDocumentMoniker": "..\\WixExample\\Product.wxs",
+              "ToolTip": "E:\\Data Science\\SWE40006\\WixExample\\Product.wxs",
+              "RelativeToolTip": "..\\WixExample\\Product.wxs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAAIAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-01-14T15:03:21.717Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "E:\\Data Science\\SWE40006\\ExampleDesktop\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "E:\\Data Science\\SWE40006\\ExampleDesktop\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T15:02:25.171Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 207,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

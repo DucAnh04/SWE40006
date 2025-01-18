@@ -1,0 +1,2 @@
+MainPackage=E:\Data Science\SWE40006\WinUniversalPackage\bin\AnyCPU\Debug\WinUniversalPackage_1.0.3.0_AnyCPU_Debug.appx
+SymbolPackage=E:\Data Science\SWE40006\WinUniversalPackage\obj\Debug\Symbols\WinUniversalPackage_1.0.3.0_AnyCPU_Debug.appxsym
