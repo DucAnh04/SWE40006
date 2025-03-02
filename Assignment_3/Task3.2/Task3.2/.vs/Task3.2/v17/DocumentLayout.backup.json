@@ -1,0 +1,89 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Data Science\\SWE40006\\Task3.2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{256CD686-9C68-41C0-B128-A85E63DE2463}|Task3.2.csproj|e:\\data science\\swe40006\\task3.2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{256CD686-9C68-41C0-B128-A85E63DE2463}|Task3.2.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{256CD686-9C68-41C0-B128-A85E63DE2463}|Task3.2.csproj|e:\\data science\\swe40006\\task3.2\\controllers\\calculatorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{256CD686-9C68-41C0-B128-A85E63DE2463}|Task3.2.csproj|solutionrelative:controllers\\calculatorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{256CD686-9C68-41C0-B128-A85E63DE2463}|Task3.2.csproj|e:\\data science\\swe40006\\task3.2\\views\\calculator\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{256CD686-9C68-41C0-B128-A85E63DE2463}|Task3.2.csproj|solutionrelative:views\\calculator\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 193,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\Data Science\\SWE40006\\Task3.2\\Views\\Calculator\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Calculator\\Index.cshtml",
+              "ToolTip": "E:\\Data Science\\SWE40006\\Task3.2\\Views\\Calculator\\Index.cshtml",
+              "RelativeToolTip": "Views\\Calculator\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-02T15:17:46.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CalculatorController.cs",
+              "DocumentMoniker": "E:\\Data Science\\SWE40006\\Task3.2\\Controllers\\CalculatorController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CalculatorController.cs",
+              "ToolTip": "E:\\Data Science\\SWE40006\\Task3.2\\Controllers\\CalculatorController.cs",
+              "RelativeToolTip": "Controllers\\CalculatorController.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAowAIAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T15:16:23.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Data Science\\SWE40006\\Task3.2\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\Data Science\\SWE40006\\Task3.2\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAuwBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T15:14:03.729Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 207,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

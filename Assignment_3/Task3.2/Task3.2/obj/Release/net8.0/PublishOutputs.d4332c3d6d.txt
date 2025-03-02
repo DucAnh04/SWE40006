@@ -1,0 +1,7 @@
+E:\Data Science\SWE40006\Task3.2\obj\Release\net8.0\PubTmp\Out\Task3.2.exe
+E:\Data Science\SWE40006\Task3.2\obj\Release\net8.0\PubTmp\Out\appsettings.Development.json
+E:\Data Science\SWE40006\Task3.2\obj\Release\net8.0\PubTmp\Out\appsettings.json
+E:\Data Science\SWE40006\Task3.2\obj\Release\net8.0\PubTmp\Out\Task3.2.dll
+E:\Data Science\SWE40006\Task3.2\obj\Release\net8.0\PubTmp\Out\Task3.2.deps.json
+E:\Data Science\SWE40006\Task3.2\obj\Release\net8.0\PubTmp\Out\Task3.2.runtimeconfig.json
+E:\Data Science\SWE40006\Task3.2\obj\Release\net8.0\PubTmp\Out\Task3.2.pdb
